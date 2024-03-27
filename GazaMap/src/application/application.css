@@ -1,0 +1,68 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+.my-text{
+	
+	 -fx-font-size: 30.0px; /* Set the font size */
+     -fx-font-family: "Microsoft Himalaya"; /* Set the font family */
+ 	 -fx-font-weight: bold; /* Set the font weight */
+     -fx-alignment: center; /* Set the text alignment to center */
+	
+	
+	
+}
+
+
+.my-button{
+	-fx-background-color: #EEFAFF; /* Set your desired color here */
+    -fx-font-size: 23.0px; /* Set the font size */
+    -fx-font-family: "Times New Roman"; /* Set the font family */
+    -fx-alignment: center; /* Set the text alignment to center */
+    -fx-text-fill: black; /* Set the text color */
+    -fx-border-color:black;
+	-fx-background-radius: 15.0px; /* Set the radius for rounded background corners */
+    -fx-border-radius: 15.0px; /* Set the radius for rounded border corners */
+}
+
+
+.my-button:hover{
+	-fx-background-color: #B5E5FA; /* Set your desired color here */
+    -fx-translate-y: -3.0px; /* Vertical translation when hovering */
+     
+}
+
+
+
+.my-dest-box {
+    -fx-background-color: #A4C9FF; /* Set background color */
+    -fx-border-color: black; /* Set border color */
+    
+        -fx-font-size: 17.0px; /* Set the font size */
+    
+}
+
+.my-source-box {
+    -fx-background-color: #9EFFA8; /* Set background color */
+    -fx-border-color: black; /* Set border color */
+    
+        -fx-font-size: 17.0px; /* Set the font size */
+    
+}
+
+.text-area {
+    -fx-control-inner-background: #EEFAFF; /* Set the background color */
+ 
+    -fx-border-color: black; /* Set the border color */
+    -fx-border-width: 2; /* Set the border width */
+}
+
+
+.text-field {
+    -fx-control-inner-background: #EEFAFF; /* Set the background color */
+    -fx-border-color: black; /* Set the border color */
+    -fx-border-width: 2; /* Set the border width */
+}
+
+
+
+
