@@ -3,7 +3,7 @@
 This project implements Dijkstra's shortest path algorithm for maps, allowing users to find the most cost-effective route between cities in the Gaza Strip. The mapping of cities and road intersections is based on longitude and latitude lines obtained from Google Maps. In addition, distances were calculated dynamically using the Haversine formula, ensuring accuracy.
 
 ## Features
-- **Interactive City Selection:** One can choose your starting and destination cities easily, either by clicking on the map or selecting from a dropdown menu.
+- **Interactive City Selection:** One can choose the starting and destination cities easily, either by clicking on the map or selecting from a dropdown menu.
 - **Flexible City Data:** City points were stored in a text file within the project, making it easy for anyone to modify and add new cities as needed.
 - **Custom Heap Data Structure**
 - **GUI using JavaFX**
