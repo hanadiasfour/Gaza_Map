@@ -5,7 +5,7 @@ This project implements Dijkstra's shortest path algorithm for maps, allowing us
 ## Features
 - **Interactive City Selection:** One can choose the starting and destination cities easily, either by clicking on the map or selecting from a dropdown menu.
 - **Flexible City Data:** City points were stored in a text file within the project, making it easy for anyone to modify and add new cities as needed.
-- **Custom Heap Data Structure**
+- **Custom Data Structures:** Including Heap and Single Linked List.
 - **GUI using JavaFX**
 
 ## Getting Started
