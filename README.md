@@ -12,3 +12,13 @@ This project implements Dijkstra's shortest path algorithm for maps, allowing us
 To get started with this project, simply clone this repository to your local machine and run the program.
 
 I hope you enjoy using this route planning tool as much as I enjoyed creating it.
+
+## Interface:
+![Gaza1](https://github.com/hanadiasfour/Gaza_Map/assets/91291021/a2a9878b-96a1-4979-a15b-06b6c5328d8f)
+
+
+
+<br>
+
+## Usage Example:
+![Gaza2](https://github.com/hanadiasfour/Gaza_Map/assets/91291021/9505c540-2784-4d8d-983c-2145c6addca1)
